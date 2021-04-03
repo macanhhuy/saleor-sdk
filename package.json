@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mirumee/saleor-sdk.git"
+    "url": "git://github.com/macanhhuy/saleor-sdk.git"
   },
   "scripts": {
     "build": "tsc",
